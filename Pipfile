@@ -5,6 +5,8 @@ name = "pypi"
 
 [packages]
 otree = "*"
+psycopg2-binary = "*"
+sentry-sdk = "*"
 
 [dev-packages]
 
